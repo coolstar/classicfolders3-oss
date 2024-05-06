@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ClassicFoldersSettings;
+	cell = PSLinkCell;
+	detail = ClassicFoldersSettingsListController;
+	icon = icon-29.png;
+	isController = 1;
+	label = "Classic Folders 2";
+    };
+}
